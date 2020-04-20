@@ -75,7 +75,7 @@ function SEO({ description, lang, meta, title }) {
 SEO.defaultProps = {
   lang: `en`,
   meta: [],
-  description: ``,
+  description: `This is a sample wbsite for the Gatsby crash coursse`,
 }
 
 SEO.propTypes = {
